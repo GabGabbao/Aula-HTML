@@ -1,0 +1,18 @@
+.header {
+    background: #2563eb;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,.15);
+}
+
+.header h1 {
+    font-size: 2rem;
+    margin-bottom: 8px;
+}
+
+.header p {
+    font-size: .95rem;
+    opacity: .9;
+}
